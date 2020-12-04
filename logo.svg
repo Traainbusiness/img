@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="193px" height="193px" viewBox="0 0 193 193" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>logo</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="logoot" transform="translate(16.000000, 13.000000)">
+            <g id="onlinethuis">
+                <g id="Rectangle-3">
+                    <g id="path-1-link" fill="#410FF8" fill-rule="nonzero">
+                        <rect id="path-1" x="0" y="0" width="161.472919" height="163.479017" rx="46.5"></rect>
+                    </g>
+                    <rect id="Rectangle-path" stroke="#410FF8" stroke-width="10" x="0.807364593" y="0.814275254" width="159.858189" height="161.850466" rx="46.035"></rect>
+                </g>
+                <path d="M76.3957895,53.9223469 L105.912344,53.9223469 L105.912344,175.213687 C101.332205,177.189613 96.1170684,178.52809 90.2669332,179.229116 C84.4167982,179.930142 79.7930835,180.153044 76.3957895,179.897822 L76.3957895,53.9223469 Z" id="Rectangle" fill="#FFFFFF" fill-rule="nonzero"></path>
+                <path d="M45.0304046,38.267472 L135.541461,38.267472 C136.438209,38.267472 137.165167,38.9949246 137.165167,39.8922832 C137.165167,40.3582823 136.965221,40.8018511 136.616135,41.1102795 L106.825773,67.4309763 C106.529072,67.6931212 106.1469,67.8377912 105.7511,67.8377912 L45.0304046,67.8377912 C44.1336564,67.8377912 43.4066986,67.1103384 43.4066986,66.2129799 L43.4066986,39.8922832 C43.4066986,38.9949246 44.1336564,38.267472 45.0304046,38.267472 Z" id="Rectangle-2" fill="#FFFFFF" fill-rule="nonzero"></path>
+            </g>
+        </g>
+    </g>
+</svg>
